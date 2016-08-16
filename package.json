@@ -1,0 +1,8 @@
+{
+  "name": "Youtube to MP3",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "youtube-mp3-downloader": "^0.4.3"
+  }
+}
